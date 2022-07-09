@@ -1,2 +1,5 @@
 Bootcamp DIO TQI Fullstack
-Curso: Javascript Assíncrono
+Curso: JavaScript Assíncrono
+Módulo III: JavaScript
+Digital Innovation One
+
