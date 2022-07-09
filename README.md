@@ -1,2 +1,2 @@
-# javascript-assincrono
- dio tqi fullstack
+Bootcamp DIO TQI Fullstack
+Curso: Javascript Assíncrono
